@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\bin\Debug\PictureViewer21.exe.config
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\bin\Debug\PictureViewer21.exe
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\bin\Debug\PictureViewer21.pdb
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.Form1.resources
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.Properties.Resources.resources
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.exe
+C:\Users\student\source\repos\PictureViewer21\PictureViewer21\obj\Debug\PictureViewer21.pdb
